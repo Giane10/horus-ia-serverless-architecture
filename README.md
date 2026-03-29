@@ -14,7 +14,7 @@ A solução automatiza a ingestão de laudos em PDF/Imagens, extrai o texto brut
 
 A arquitetura foi desenhada utilizando os pilares do **AWS Well-Architected Framework**, com forte ênfase em escalabilidade, segurança e otimização de custos.
 
-![Diagrama de Arquitetura AWS](./imagem_arquitetura.png) *(Nota: Faça o upload da Imagem 2 do seu PDF aqui e apague esta nota)*
+![Diagrama de Arquitetura AWS](./imagem_arquitetura.png) 
 
 ### Fluxo de Processamento (Event-Driven)
 1. **Ingestão:** O usuário faz o upload do documento médico em um **Amazon S3** (Bucket de Entrada).
