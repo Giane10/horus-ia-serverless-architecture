@@ -53,3 +53,11 @@ Como próximos passos para uma versão 2.0 (Backlog), o design contempla:
 
 ---
 *Projeto idealizado e documentado por **Giane Costa**.* [🔗 Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/giane-costa/)
+
+
+---
+## ⚖️ Licença e Direitos Autorais
+
+© 2026 Giane do Nascimento Costa. Todos os direitos reservados.
+
+Este repositório contém documentação e design de arquitetura desenvolvidos como portfólio profissional e acadêmico. É terminantemente proibida a cópia, reprodução, distribuição ou reivindicação de autoria deste material, no todo ou em parte, sem a autorização prévia e expressa da autora.
